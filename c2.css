@@ -1,0 +1,40 @@
+body {
+  background-color: #ff6446;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.first-box {
+  background-color: #f5deb3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40vh;
+  height: 40vh;
+  border: solid 3px black;
+  gap: 3vh;
+}
+
+.second-box {
+  background-color: #008080;
+  width: 8vh;
+  height: 8vh;
+  border: solid 4px white;
+}
+
+.third-box {
+  background-color: #008080;
+  width: 32vh;
+  height: 8vh;
+  border: dashed 4px white;
+}
+
+.fourth-box {
+  background-color: #008080;
+  width: 8vh;
+  height: 8vh;
+  border: solid 4px white;
+}
